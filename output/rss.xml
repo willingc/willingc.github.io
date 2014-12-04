@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Gentle Code Garden</title><link>http://gcodegarden.com/</link><description>This is a site for sharing positive development ideas.</description><atom:link rel="self" href="http://gcodegarden.com/rss.xml" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Thu, 04 Dec 2014 10:13:07 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Failure Helps You</title><link>http://gcodegarden.com/posts/failure-helps-you.html</link><dc:creator>Carol Willing</dc:creator><description>&lt;div&gt;&lt;p&gt;In our culture, success is put on a pedestal for people to achieve or risk being not good enough.
+Yet, failures, small and even some large, serve an important role in learning and inventing.&lt;/p&gt;
+&lt;p&gt;Jeri Ellsworth, a creative engineer, has an honest and inspiring view on failure. Take a look:
+&amp;lt;&lt;a class="reference external" href="http://youtu.be/xhQ7d3BK3KQ"&gt;http://youtu.be/xhQ7d3BK3KQ&lt;/a&gt;&amp;gt;&lt;/p&gt;&lt;/div&gt;</description><category>failure</category><category>learning</category><guid>http://gcodegarden.com/posts/failure-helps-you.html</guid><pubDate>Wed, 22 Jan 2014 08:00:00 GMT</pubDate></item><item><title>Creating a Website with Pelican</title><link>http://gcodegarden.com/posts/create-site-pelican.html</link><dc:creator>Carol Willing</dc:creator><description>&lt;div&gt;&lt;p&gt;Pelican gives new and experienced Python users a tool for creating customizable websites and blogs. It is a static site generator so it enables websites to be built quickly and securely yet it allows different themes and customization.&lt;/p&gt;
+&lt;p&gt;Here's a great tutorial video to get you started with Pelican from one of its key developers:
+&lt;a class="reference external" href="http://hackercodex.com/guide/pelican-static-site-generator-install/"&gt;http://hackercodex.com/guide/pelican-static-site-generator-install/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pelican's project blog: &lt;a class="reference external" href="http://blog.getpelican.com/"&gt;http://blog.getpelican.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pelican documentation: &lt;a class="reference external" href="http://docs.getpelican.com/en/3.3.0/"&gt;http://docs.getpelican.com/en/3.3.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pelican on GitHub: &lt;a class="reference external" href="https://github.com/getpelican/pelican"&gt;https://github.com/getpelican/pelican&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>pelican</category><category>web</category><guid>http://gcodegarden.com/posts/create-site-pelican.html</guid><pubDate>Wed, 22 Jan 2014 08:00:00 GMT</pubDate></item><item><title>Setting up a Mac for Python Development - The Hard (but sustainable) Way</title><link>http://gcodegarden.com/posts/setting-mac-python.html</link><dc:creator>Carol Willing</dc:creator><description>&lt;div&gt;&lt;p&gt;One of the great things about Python is how easy it is to get started and feel productive as a programmer or web developer. There are wonderful resources out there to help a new coder get started: Python documentation, PyLadies, Python User Groups, books and tutorials.&lt;/p&gt;
+&lt;p&gt;I certainly have enjoyed my journey through learning Python. I love the language and its clarity. One of the things that has been challenging as I learned was understanding how to set up my development computers. The mystery of packages, pip, easy_install, venv, macports, brew, and a gobbledy goop of others kept me a little fuzzy every step of the way. Was my computer set up how it should be? Will I mess everything up if I pip instead of easy_install?&lt;/p&gt;
+&lt;p&gt;Fortunately, I haven't had any major catastrophes like smoke coming from my Macbook. Actually, the more that I learned about Python and used Python the jargon became less scary.&lt;/p&gt;
+&lt;p&gt;True, there are different ways to set up your development environment. For now, I am following the suggestions at Justin Mayer's Hacker Codex site. He does a very good job of clearly explaining how to set up a Mac for development and for Python development.
+&lt;a class="reference external" href="http://hackercodex.com/guide/mac-osx-mavericks-10.9-configuration/"&gt;http://hackercodex.com/guide/mac-osx-mavericks-10.9-configuration/&lt;/a&gt;
+&lt;a class="reference external" href="http://hackercodex.com/guide/python-development-environment-on-mac-osx/"&gt;http://hackercodex.com/guide/python-development-environment-on-mac-osx/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;When you are done setting up your Mac, you might want to watch his tutorial on setting up a website and blog using Pelican. It's very helpful.
+&lt;a class="reference external" href="http://hackercodex.com/guide/pelican-static-site-generator-install/"&gt;http://hackercodex.com/guide/pelican-static-site-generator-install/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>mac</category><category>python</category><guid>http://gcodegarden.com/posts/setting-mac-python.html</guid><pubDate>Sat, 18 Jan 2014 08:00:00 GMT</pubDate></item><item><title>Learning Music with Python</title><link>http://gcodegarden.com/posts/learn-music-python.html</link><dc:creator>Carol Willing</dc:creator><description>&lt;div&gt;&lt;p&gt;Python with its rich and freely available libraries offers many creative avenues for musicians. From ear training to a complete musicology research framework, there are projects that will inspire musicians from beginners to professionals.&lt;/p&gt;
+&lt;div class="section" id="music-theory"&gt;
+&lt;h2&gt;Music Theory&lt;/h2&gt;
+&lt;p&gt;music21&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="music-notation"&gt;
+&lt;h2&gt;Music Notation&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;LilyPond&lt;/li&gt;
+&lt;li&gt;Frescobaldi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="ear-training"&gt;
+&lt;h2&gt;Ear Training&lt;/h2&gt;
+&lt;p&gt;GNU Solfege&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>lilypond</category><category>music</category><category>music21</category><guid>http://gcodegarden.com/posts/learn-music-python.html</guid><pubDate>Sat, 18 Jan 2014 08:00:00 GMT</pubDate></item></channel></rss>
